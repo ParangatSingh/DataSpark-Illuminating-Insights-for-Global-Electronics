@@ -48,7 +48,7 @@ The following tools and technologies were employed:
 
 - **Data Cleaning and Preparation:** Python
   
-- **Data Management:** PostgreSQL
+- **Data Management:** MySQL
   
 - **Data Visualization:** Power BI
 
@@ -64,7 +64,7 @@ The following tools and technologies were employed:
 - Standardizing formats, such as date formats, across all datasets.
 
 **Data Loading:**
-- Importing processed and merged data into PostgreSQL.
+- Importing processed and merged data into MySQL.
 - Loading data into Power BI for visualization and analysis.
 
 **Visualizations and Dashboard Design**
